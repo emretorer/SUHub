@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-import 'routes.dart';
-import 'theme/app_colors.dart';
+
 void main() {
   runApp(const MyApp());
 }
